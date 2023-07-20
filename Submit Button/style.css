@@ -1,0 +1,28 @@
+body{
+    background-color: azure;
+    font-size: 700%;
+}
+#output{
+    text-align: center;
+    margin-top: 10%;
+    color: chartreuse;
+}
+#output span{
+    color: red;
+    font-weight: 500;
+}
+.button-container {
+    display: grid;
+}
+button {
+    background-color: rgb(255, 255, 255);
+    font-size: 100%;
+    color: #93bae7;
+    border: 1px solid;
+    padding: 50px;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    border-radius: 20%;
+
+}
